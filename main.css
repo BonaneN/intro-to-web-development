@@ -13,13 +13,13 @@
 /* Write your code below this */
 body {
   background-color: #f0f0f0;
-  color: #333;
+  color: #202020;
   font-size: 16px;
   line-height: 1.5;
 }
 
 .navbar {
-  background-color: #333;
+  background-color: #ffffff;
   color: #fff;
   padding: 26px 60px;
   width: 100%;
@@ -28,6 +28,7 @@ body {
 }
 
 li {
+  color: #333;
   display: inline-block;
   list-style-type: none;
   margin: 0 12px;
